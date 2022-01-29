@@ -13,7 +13,6 @@
 		A8571B1A27A1BDB50042B3B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8571B1927A1BDB50042B3B8 /* Preview Assets.xcassets */; };
 		A8571B2127A1C28D0042B3B8 /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8571B2027A1C28D0042B3B8 /* TimeCounter.swift */; };
 		A8571B2327A1C9940042B3B8 /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8571B2227A1C9940042B3B8 /* RegisterView.swift */; };
-		A8571B2527A1CA9E0042B3B8 /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8571B2427A1CA9E0042B3B8 /* UserManager.swift */; };
 		A8571B2727A1CD470042B3B8 /* StarterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8571B2627A1CD470042B3B8 /* StarterView.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +24,6 @@
 		A8571B1927A1BDB50042B3B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A8571B2027A1C28D0042B3B8 /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 		A8571B2227A1C9940042B3B8 /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
-		A8571B2427A1CA9E0042B3B8 /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
 		A8571B2627A1CD470042B3B8 /* StarterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 				A8571B1427A1BDB40042B3B8 /* ContentView.swift */,
 				A8571B2227A1C9940042B3B8 /* RegisterView.swift */,
 				A8571B2027A1C28D0042B3B8 /* TimeCounter.swift */,
-				A8571B2427A1CA9E0042B3B8 /* UserManager.swift */,
 				A8571B1627A1BDB50042B3B8 /* Assets.xcassets */,
 				A8571B1827A1BDB50042B3B8 /* Preview Content */,
 			);
@@ -153,7 +150,6 @@
 				A8571B2327A1C9940042B3B8 /* RegisterView.swift in Sources */,
 				A8571B2727A1CD470042B3B8 /* StarterView.swift in Sources */,
 				A8571B1527A1BDB40042B3B8 /* ContentView.swift in Sources */,
-				A8571B2527A1CA9E0042B3B8 /* UserManager.swift in Sources */,
 				A8571B1327A1BDB40042B3B8 /* StateAndDataFlowApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
